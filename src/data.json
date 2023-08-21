@@ -1,0 +1,388 @@
+[
+  {
+    "data": {
+      "id": "0",
+      "postsByDay": [
+        15, 17, 15, 13, 15, 17, 15, 13, 15, 17, 15, 13, 15, 17, 15, 13, 15, 17,
+        15, 13, 15, 17, 15, 13, 15, 17, 15, 13, 15, 17
+      ],
+      "totalPosts": 452,
+      "peopleFollowedCount": 0,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 400.912746727675,
+      "y": 467.8537077293129
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1",
+      "postsByDay": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+        21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+      ],
+      "totalPosts": 465,
+      "peopleFollowedCount": 6,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 346.91274572767503,
+      "y": 521.8537087293129
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "2",
+      "postsByDay": [
+        90, 87, 84, 81, 78, 75, 72, 69, 66, 63, 60, 57, 54, 51, 48, 45, 42, 39,
+        36, 33, 30, 27, 24, 21, 18, 15, 12, 9, 6, 3
+      ],
+      "totalPosts": 1395,
+      "peopleFollowedCount": 6,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 229.18847460153427,
+      "y": 528.4007363957313
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "3",
+      "postsByDay": [
+        11, 12, 11, 10, 11, 12, 11, 10, 11, 12, 11, 10, 11, 12, 11, 10, 11, 12,
+        11, 10, 11, 12, 11, 10, 11, 12, 11, 10, 11, 12
+      ],
+      "totalPosts": 331,
+      "peopleFollowedCount": 4,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 562.9127497276751,
+      "y": 521.6122505651548
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "4",
+      "postsByDay": [
+        30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13,
+        12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+      ],
+      "totalPosts": 465,
+      "peopleFollowedCount": 4,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 238.92084419292118,
+      "y": 595.734380309857
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "5",
+      "postsByDay": [
+        20, 21, 20, 19, 20, 21, 20, 19, 20, 21, 20, 19, 20, 21, 20, 19, 20, 21,
+        20, 19, 20, 21, 20, 19, 20, 21, 20, 19, 20, 21
+      ],
+      "totalPosts": 601,
+      "peopleFollowedCount": 4,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 454.912747727675,
+      "y": 528.6540608593782
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "6",
+      "postsByDay": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+        21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+      ],
+      "totalPosts": 465,
+      "peopleFollowedCount": 4,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 283.1884756015343,
+      "y": 541.7343793098571
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "7",
+      "postsByDay": [
+        60, 58, 56, 54, 52, 50, 48, 46, 44, 42, 40, 38, 36, 34, 32, 30, 28, 26,
+        24, 22, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2
+      ],
+      "totalPosts": 930,
+      "peopleFollowedCount": 7,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 487.22096038912815,
+      "y": 420.6540588593782
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "8",
+      "postsByDay": [
+        14, 17, 14, 11, 14, 17, 14, 11, 14, 17, 14, 11, 14, 17, 14, 11, 14, 17,
+        14, 11, 14, 17, 14, 11, 14, 17, 14, 11, 14, 17
+      ],
+      "totalPosts": 423,
+      "peopleFollowedCount": 7,
+      "degreeCentrality": 0,
+      "djikstraDistance": 0,
+      "social": true
+    },
+    "position": {
+      "x": 339.50567120248456,
+      "y": 359.8537057293128
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "25",
+      "source": "5",
+      "target": "1",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "26",
+      "source": "6",
+      "target": "5",
+      "social": true,
+      "label": "Connection detail"
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "27",
+      "source": "6",
+      "target": "4",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "28",
+      "source": "6",
+      "target": "7",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "29",
+      "source": "7",
+      "target": "0",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "30",
+      "source": "6",
+      "target": "0",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "31",
+      "source": "7",
+      "target": "3",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "32",
+      "source": "6",
+      "target": "8",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "33",
+      "source": "7",
+      "target": "5",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "34",
+      "source": "6",
+      "target": "2",
+      "social": true
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  }
+]
